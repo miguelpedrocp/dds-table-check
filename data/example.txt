@@ -1,0 +1,5 @@
+The data folder should be used to store input mapping data on a small scale.
+When the data is large it should be in S3 or Snowflake.
+All output data (model output, model diagnostics or log files) should be stored on S3 or Snowflake.
+
+Delete this file and folder if it is not needed for your project.

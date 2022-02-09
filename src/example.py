@@ -1,0 +1,2 @@
+# replace this file with your Python script(s)
+# ensure you follow the folder structure as laid out on Confluence: https://livesport.atlassian.net/wiki/spaces/DSIK/pages/5403871127/Creating+Structuring+a+GitHub+Repo
